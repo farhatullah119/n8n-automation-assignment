@@ -3,7 +3,7 @@
   "nodes": [
     {
       "parameters": {
-        "content": "✅ This demo workflow is ready to use\n✨ We gave you free OpenAI credits to play with",
+        "content": "This demo workflow is ready to use\n We gave you free OpenAI credits to play with",
         "height": 256,
         "width": 400,
         "color": 4
@@ -19,7 +19,7 @@
     },
     {
       "parameters": {
-        "content": "### ✨ Bonus step \nSend the news summary via email. Open the node and connect your Gmail account [(= new credential)](https://www.youtube.com/shorts/2K6ltfI4YRg)",
+        "content": "###  Bonus step \nSend the news summary via email. Open the node and connect your Gmail account [(= new credential)](https://www.youtube.com/shorts/2K6ltfI4YRg)",
         "height": 80,
         "width": 384,
         "color": 7
